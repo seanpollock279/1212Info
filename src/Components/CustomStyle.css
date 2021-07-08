@@ -1,0 +1,46 @@
+.customButton {
+    background-color: #7A4648;
+    color: white;
+    border: 1px solid #7A4648;
+    width: 535px;
+    height: 90px;
+    padding: 36px 0;
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+    border-radius: 4px 4px 0 0;
+    margin-top: 50px;
+}
+
+.customCard {
+    background-color: #7A4648;
+    width: 535px;
+    border-radius: 0 0 4px 4px;
+    margin-bottom: 10px;
+}
+
+.customCard__content {
+    color: white;
+    padding-left: 95px;
+    width: 75%;
+}
+
+.customButton__icon {
+    width: 32px;
+    height: 32px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.cardButton {
+    padding: 16px;
+    background-color: white;
+    color:  #7A4648;
+    border: 1px solid white;
+    border-radius: 4px;
+    width: 20;
+    margin-top: 15px;
+    margin-right: 16px;
+    float: right;
+    display: block;
+}
